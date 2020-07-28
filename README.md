@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Shiro 👋
 
 <!--
 **sh1r0/sh1r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![sh1r0's github stats](https://github-readme-stats.vercel.app/api?username=sh1r0&show_icons=true&count_private=true&hide=issues,prs)
